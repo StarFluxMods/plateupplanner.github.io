@@ -3,12 +3,8 @@ import { itemData } from './itemData';
 const idMap = new Map(itemData);
 
 function convertLegacy(id: string): [string, string] {
-  if (idMap.has(id)) {
-    const value = idMap.get(id)!;
-    return [value[0], value[1]];
-  }
-
-  return ['404.png', 'Empty tile'];
+  const value = idMap.get(id) ?? ['404.png', 'Empty tile'];
+  return [value[0], value[1]];
 }
 
 const itemsData: [string, [string, string]][] = [
