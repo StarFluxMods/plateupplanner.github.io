@@ -97,7 +97,7 @@ const itemsData: [string, [string, string]][] = [
   ['J0', convertLegacy('-2092567672')],
   ['FG', convertLegacy('1807525572')],
   ['dG', convertLegacy('-1573812073')],
-  ['EC', convertLegacy('-215543585')],
+  ['EC', convertLegacy('743010293')],
   ['Dc', convertLegacy('759552160')],
   ['P7', convertLegacy('385684499')],
   ['Ar', convertLegacy('-452101383')],
