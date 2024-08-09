@@ -91,7 +91,7 @@ const itemsData: [string, [string, string]][] = [
   ['zg', convertLegacy('459840623')],
   ['hM', convertLegacy('-1610332021')],
   ['Gt', convertLegacy('-246383526')],
-  ['lu', convertLegacy('00')], // Door
+  ['lu', convertLegacy('door')], // Door
   ['Dq', convertLegacy('-349733673')],
   ['yi', convertLegacy('-905438738')],
   ['J0', convertLegacy('-2092567672')],

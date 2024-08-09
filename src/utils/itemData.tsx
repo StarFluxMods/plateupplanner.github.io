@@ -243,8 +243,20 @@ const itemsData: [string, [string, string, number]][] = [
   ['-1339944542', ['Vanilla/-1339944542.png', 'Lasagne Tray', 20]],
   ['-215543585', ['Vanilla/-215543585.png', 'Butter', 20]],
   ['-182748008', ['Vanilla/-182748008.png', 'Spaghetti', 20]],
+  ['509800268', ['Vanilla/509800268.png', 'Dish Source Cabinet', 60]],
+  ['-364231730', ['Vanilla/-364231730.png', 'Appliance', 60]],
+  ['-121110359', ['Vanilla/-121110359.png', 'Appliance', 60]],
+  ['-940358190', ['Vanilla/-940358190.png', 'Leftover Bags', 60]],
   ['-2070005162', ['Vanilla/-2070005162.png', 'Clipboard Stand', 60]],
+  ['745886540', ['Vanilla/745886540.png', 'Taco Trays', 60]],
+  ['-5840756', ['Vanilla/-5840756.png', 'Tortillas', 60]],
   ['-26827118', ['Vanilla/-26827118.png', 'Upgrade Kit', 60]],
+
+  //
+  // Extras
+  //
+
+  ['door', ['Extras/door.png', 'Door', 0]],
 
   //
   // IngredientLib
